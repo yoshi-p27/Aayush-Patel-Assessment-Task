@@ -1,5 +1,5 @@
 # Aayush-Patel-Assessment-Task
-# Markdown to Google Docs Converter
+## Markdown to Google Docs Converter
 
 A Python script that converts markdown meeting notes into a well-formatted Google Document with proper styling, bullet points, checkboxes, and mention formatting.
 
